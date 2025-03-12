@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Caculator_2" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+                <item name="colorPrimary">@color/almostBlack</item>
+                <item name="colorPrimaryVariant">@color/almostBlack</item>
+                <item name="colorOnPrimary">@color/white</item>
+        <item name="android:colorBackground">@color/almostBlack</item>
+    </style>
+
+    <style name="Theme.Caculator_2" parent="Base.Theme.Caculator_2" />
+</resources>
